@@ -21,16 +21,24 @@ console.log("----------------------")
 }
 
 var questions = [{
-   question: "Where Do i Live ? ",
+   question: "Where Do i Live ?  ",
    answer :"Pune"
 },
 {
-  question: "What is My Fav Colour ? ",
+  question: "What is My Fav Colour ?  ",
   answer:"Black"
 },
 {
-  question:"My favourite superhero ? ",
+  question:"My favourite superhero ?  ",
   answer:"Ironman"
+},
+{
+  question:"My favourite Movie  ",
+  answer:"Inception"
+},
+{
+  question:"My favourite Series  ",
+  answer : "Two and half men"
 }];
 
 for(var i=0;i<questions.length;i++){
